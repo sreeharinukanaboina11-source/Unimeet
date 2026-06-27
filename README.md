@@ -26,7 +26,7 @@ The **Student-Faculty Appointment Management System** is a full-stack web applic
 * Accept or reject appointments.
 * Keep track of scheduled meetings.
 
-### 👨‍💼 For Administrators
+###  For Administrators
 
 * Manage student and faculty accounts.
 * Monitor all appointments.
